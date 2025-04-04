@@ -16,3 +16,4 @@ If you are developing a production application, we recommend using TypeScript an
 2. Open the project
 3. Type on terminal npm install
 4. Type npm run dev
+5. Enjoy
